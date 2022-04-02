@@ -1,0 +1,8 @@
+ab
+c
+<<<<<<< Updated upstream
+=======
+
+d
+e
+>>>>>>> Stashed changes
